@@ -1,8 +1,8 @@
 # Cerbo
 
-Cerbo is "brain" in Esperanto. 
+Cerbo means "brain" in Esperanto. 
 
-It is a high-level API wrapping Scikit-Learn, Tensorflow and Keras. Allowing, you to efficiently perform ML modelling and preprocessing.
+It is a high-level API wrapping Scikit-Learn, Tensorflow and Keras which allows you to efficiently perform ML/DL modelling and preprocessing with great abstraction.
 
 ## Install
 
